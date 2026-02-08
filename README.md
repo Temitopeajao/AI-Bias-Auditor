@@ -117,7 +117,7 @@ Tools like this are essential for **Responsible AI teams** to systematically ben
 ### Clone repository
 
 ```bash
-git clone https://github.com/teefortope_/cultural-bias-auditor.git
+git clone https://github.com/Temitopeajao_/cultural-bias-auditor.git
 cd cultural-bias-auditor
 ```
 
